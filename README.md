@@ -12,3 +12,5 @@ Here are the necessary starting image links:
 As this project is in the last lesson of the Flexbox section (not Grid yet) in Foundations, i will surely use vanilla HTML, CSS and the Flexbox Layout to get all elements in the right position and proper style. 
 
 ## CHALLENGES
+Coming soon...
+
