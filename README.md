@@ -1,2 +1,3 @@
-# landing-page
+# Basic Landing Page
 This is a repository for a brand's landing page. Part of The Odin Project's Foundations. 
+
