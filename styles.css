@@ -92,7 +92,7 @@ h1 {
     height: 400px;
 }
 
-h2 {
+.information {
     font-size: 36px;
     font-weight: 900;
     text-align: center;
@@ -164,7 +164,7 @@ h2 {
 .fourth-container {
     background-color: #3882f6;
     color: #e5e5e5;
-    padding: 30px;
+    padding: 26px;
     width: 70%;
     border-radius: 8px;
     height: 40%;
