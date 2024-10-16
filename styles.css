@@ -22,7 +22,7 @@ ul {
 
 
 .navigation-bar {
-    width: 80%;
+    max-width: 80%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -43,9 +43,14 @@ ul {
 }
 
 .top-section {
-    width: 80%;
+    max-width: 80%;
     margin: 0 auto;
-    height: 70%;
+    min-height: 70%;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+}
+
+.title-container {
+    max-width: 40%;
 }
