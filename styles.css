@@ -173,6 +173,16 @@ h2 {
     align-items: center;
 }
 
+.sign-up {
+    background-color: #3882f6;
+    border: 2px solid #e5e5e5;
+    color: #e5e5e5;
+    padding: 6px 30px;
+    border-radius: 7px;
+    font-weight: 900;
+    font-size: 17px;
+}
+
 
 
 
