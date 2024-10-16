@@ -97,3 +97,11 @@ h2 {
     font-weight: 900;
     color: #1f2937;
 }
+
+.square {
+    width: 130px;
+    height: 130px;
+    border: 2px solid #3882f6;
+    color: white;
+    border-radius: 10px;
+}
