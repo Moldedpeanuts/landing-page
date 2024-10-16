@@ -65,6 +65,7 @@ h1 {
 .h1-subtext {
     font-size: 18px;
     color: #e5e7eb;
+    margin-bottom: 8px;
 }
 
 .title-button {
