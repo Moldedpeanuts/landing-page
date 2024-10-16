@@ -39,7 +39,8 @@ ul {
     display: flex;
     align-items: center;
     gap: 22px;
-    font-size: 19px;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .top-section {
