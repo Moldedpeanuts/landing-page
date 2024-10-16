@@ -125,4 +125,13 @@ h2 {
     width: 150px;
 }
 
+.third-section {
+    height: 400px;
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 
