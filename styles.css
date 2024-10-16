@@ -54,3 +54,9 @@ ul {
 .title-container {
     max-width: 40%;
 }
+
+h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
