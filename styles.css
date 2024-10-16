@@ -165,8 +165,12 @@ h2 {
     background-color: #3882f6;
     color: #e5e5e5;
     padding: 30px;
-    width: 60%;
+    width: 70%;
     border-radius: 8px;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 
