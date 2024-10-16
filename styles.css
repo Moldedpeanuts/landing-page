@@ -14,3 +14,7 @@ body {
 .top-container {
     background-color: #1f2937;
 }
+
+ul {
+    list-style-type: none;
+}
