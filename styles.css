@@ -22,11 +22,11 @@ ul {
 
 
 .navigation-bar {
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    padding: 12px;
+    padding: 18px 14px 14px 14px;
 }
 
 .logo {
@@ -39,4 +39,5 @@ ul {
     display: flex;
     align-items: center;
     gap: 22px;
+    font-size: 19px;
 }
