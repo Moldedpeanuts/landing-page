@@ -109,12 +109,19 @@ h2 {
 .squares-div {
     display: flex;
     align-items: center;
+    justify-content: center;
+    gap: 44px;
+}
+
+.square-text {
+    width: 100px;
 }
 
 .middle-containers {
     display: flex;
     align-items: center;
     flex-direction: column;
+    text-align: center;
 }
 
 
