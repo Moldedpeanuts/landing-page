@@ -8,5 +8,8 @@
 
 body {
     font-family: "Roboto", sans-serif;
+}
+
+.top-container {
     background-color: #1f2937;
 }
