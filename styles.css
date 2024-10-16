@@ -114,15 +114,13 @@ h2 {
     gap: 44px;
 }
 
-.square-text {
-    width: 100px;
-}
 
 .middle-containers {
     display: flex;
     align-items: center;
     flex-direction: column;
     text-align: center;
+    width: 150px;
 }
 
 
