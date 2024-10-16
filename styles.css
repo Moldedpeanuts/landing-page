@@ -66,3 +66,13 @@ h1 {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.title-button {
+    background-color: #3882f6;
+    padding: 8px 37px;
+    color:  white;
+    font-weight: 700;
+    font-size: 18px;
+    border: 1px solid #1f2937;
+    border-radius: 12px;
+}
