@@ -35,4 +35,8 @@ ul {
     font-weight: 800;
 }
 
-
+.link-list {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
