@@ -38,7 +38,12 @@ cd landing-page
 
 - **Mobile Responsiveness** : Can be enhanced using media queries to ensure the page looks good on all screen sizes.
 - **JavaScript Interactivity**: Adding dynamic features like scroll animations or a navigation bar that adjust based on user interaction.
+- **Advanced Styling** : More advanced CSS features could be incorporated such as CSS Grid, animations or transitions for visual flair.
 
+
+## Acknowledgement
+
+- The Odin Project curriculum for the inspiration and structure for this project.
 
 
 
