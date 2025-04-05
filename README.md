@@ -34,6 +34,12 @@ cd landing-page
 - Feel free to replace any placeholder text with your own content. You can also change the images and branding to make the page your own.
 
 
+## Future Improvements
+
+- **Mobile Responsiveness** : Can be enhanced using media queries to ensure the page looks good on all screen sizes.
+- **JavaScript Interactivity**: Adding dynamic features like scroll animations or a navigation bar that adjust based on user interaction.
+
+
 
 
 
