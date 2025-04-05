@@ -1,16 +1,16 @@
-# BASIC LANDING PAGE
-This is the second project in [The Odin Project](https://www.theodinproject.com) Foundations section, and specifically at the end of the Flexbox section. 
+# LANDING PAGE
+This project involves building a landing page based on a provided design. The goal is to practice HTML, CSS and Flexbox skills by transforming a design image into a functional web page. The page layout focuses on structuring and styling various sections to match the provided mockup.
 
-## PROJECT CONTENT
-A basic landing page containing some dummy text content, in its start.Later i will probably use this template for a brand i will create as a landing page. The Odin Project's creators asked to create this single-page landing page while providing with the proper images for the website's final design and font and colors they used to create it as cheatsheets. 
+## Project Features
 
-Here are the necessary starting image links:
-* Link to website's [final look](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
-* Link to website's cheatsheet [styles](https://cdn.statically.io/gh/TheOdinProject/curriculum/a38403e7d81cc8305af16ac48985cfbde87834d6/foundations/html_css/flexbox/project-landing-page/imgs/02.png)
+- **Responsive Layout**: The page adapts to different screen sizes using CSS Flexbox for a responsive, fluid layout.
 
-## TOOLS
-As this project is in the last lesson of the Flexbox section (not Grid yet) in Foundations, i will surely use vanilla HTML, CSS and the Flexbox Layout to get all elements in the right position and proper style. 
+- **Multi-Section Layout**: The page consists of a hero section, features section and a footer section, styled according to the design mockup.
 
-## CHALLENGES
-Coming soon...
+- **Consistent Styling**: Use of consistent typography, color schemes and spacing to match the provided design.
+
+- **Customizable Content**: The landing page content is customizable, allowing you to swap out placeholder text and images for real-world content.
+
+
+
 
